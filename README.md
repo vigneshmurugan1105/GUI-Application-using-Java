@@ -1,0 +1,2 @@
+# GUI-Application-using-Java
+It is an GUI Application allows the user to create projects and assign the students to different projects. Heuristic algorithm is used to reduce the standard deviation in graph while assigning the students to the project.  JavaFx, Stream, Map and Sets are used to make the code Scalable, maintainable, and extensible.  Using the concepts of abstract class, inheritance and polymorphism, the Application has been created.
